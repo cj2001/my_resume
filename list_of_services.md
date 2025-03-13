@@ -14,6 +14,6 @@ Organizations looking to integrate generative AI and advanced data science into 
 
 4. Freelance Services: Generative AI & Data Science Implementation
  
-For companies needing an experienced AI and data science professional to execute projects, Dr. Sullivan offers freelance services that deliver real results. She specializes in building AI-powered applications, designing machine learning models, optimizing data workflows, and providing technical expertise to support engineering teams. With a track record of deploying production-ready AI systems, she ensures that businesses can effectively implement and scale AI solutions.
+For companies needing an experienced AI and data science professional to execute projects, Dr. Sullivan offers freelance services that deliver real results. She specializes in building AI-powered applications, designing machine learning models, working with graph databases and graph techniques, and providing technical expertise to support engineering teams. With a track record of deploying production-ready AI systems, she ensures that businesses can effectively implement and scale AI solutions.
 
 Each of these services is designed to help organizations unlock the power of data and AI, whether through thought leadership, hands-on training, strategic consulting, or direct implementation.
